@@ -106,7 +106,7 @@ python版本默认走服务器（2021.3.27更新）
 
 ## 链接
 
-[我的博客](https://hunsh.net)
+[我的博客](https://k8syun.com/)
 
 ## 参考
 
@@ -114,5 +114,5 @@ python版本默认走服务器（2021.3.27更新）
 
 ## 捐赠
 
-![wx.png](https://img.maocdn.cn/img/2021/04/24/image.md.png)
-![ali.png](https://www.helloimg.com/images/2021/04/24/BK9vmb.md.png)
+
+![82a64ac9a05718f86c58443d1500e46](https://liu-fu-gui.github.io/myimg/halo/82a64ac9a05718f86c58443d1500e46.jpg)
